@@ -12,9 +12,9 @@ Addon to sync teams between UltimateAdvancementAPI and BentoBox
 ### Installation
 <hr>
 
-*  Download UltimateAdvancementAPI and put it in the plugin folder.
+*  Download UltimateAdvancementAPI and put it in the `plugins` folder.
 *  Download BentoBox and configure it with modalities and addons.
-*  Add this addon into the `Addons` folder of BentoBox
+*  Add this addon into the `addons` folder of BentoBox
 
 <br>
 
