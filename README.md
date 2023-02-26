@@ -4,8 +4,8 @@ Addon to sync teams between UltimateAdvancementAPI and BentoBox
 ### Requirements
 <hr>
 
-*  UltimateAdvancementAPI: https://www.spigotmc.org/resources/ultimateadvancementapi-1-15-1-19-3.95585/
-*  BentoBox: https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/
+*  UltimateAdvancementAPI: https://www.spigotmc.org/resources/95585/
+*  BentoBox: https://www.spigotmc.org/resources/73261/
 
 <br>
 
