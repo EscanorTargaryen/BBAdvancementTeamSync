@@ -1,4 +1,4 @@
-package it.escanortargaryen;
+package it.escanortargaryen.bbadvancementteamsync;
 
 import com.fren_gor.ultimateAdvancementAPI.UltimateAdvancementAPI;
 import com.fren_gor.ultimateAdvancementAPI.events.team.AsyncTeamUpdateEvent;
