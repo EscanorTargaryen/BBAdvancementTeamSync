@@ -1,6 +1,6 @@
 name: ${project.name}
 version: ${project.version}
-main: it.escanortargaryen.BBAdvancementTeamSync
+main: it.escanortargaryen.bbadvancementteamsync.BBAdvancementTeamSync
 api-version: 1.13
 authors: EscanorTargaryen
 description: Addon to sync teams between UltimateAdvancementAPI and BentoBox
